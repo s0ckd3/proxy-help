@@ -6,6 +6,10 @@ Phiên bản đầu tiên chúng tôi chỉ mang đến những tiện ích như
 - Kiểm tra tình trang proxy số lượng lớn
 - xuất kết quả kiểm tra ra exel.
 
+![proxy-help](https://github.com/s0ckd3/proxy-help/blob/main/Screenshot%202024-06-16%20063128.jpg)
+
+![](https://github.com/s0ckd3/proxy-help/blob/main/Screenshot%202024-06-16%20062047.jpg)
+
 ## Hỗ trợ định dạng
   Định dạng cho proxy xoay có api đổi ip
 
@@ -24,6 +28,8 @@ Video: [https://youtu.be/Q3Hpl146kzM]
  Hỗ trợ kiểm tra hàng triệu proxy nhanh chóng
  Ở phiên bản đầu tiền chúng tôi hỗ trợ kiểm tra 50 proxy đồng thời để tránh việc nghẽn mạng cho người sử dụng
  Hỗ trợ định dạng `HTTP` và `SOCKS5`
+![](https://github.com/s0ckd3/proxy-help/blob/main/Screenshot%202024-06-16%20063241.jpg)
+
 
 ## Link Tải:
 - Phiên bản mới nhất: [https://github.com/s0ckd3/proxy-help/releases/1.0.2]
