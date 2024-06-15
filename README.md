@@ -24,3 +24,7 @@ Video: [https://youtu.be/Q3Hpl146kzM]
  Hỗ trợ kiểm tra hàng triệu proxy nhanh chóng
  Ở phiên bản đầu tiền chúng tôi hỗ trợ kiểm tra 50 proxy đồng thời để tránh việc nghẽn mạng cho người sử dụng
  Hỗ trợ định dạng `HTTP` và `SOCKS5`
+
+## Link Tải:
+- Phiên bản mới nhất: [https://github.com/s0ckd3/proxy-help/releases/1.0.2]
+- Tổng hợp: [https://github.com/s0ckd3/proxy-help/releases]
